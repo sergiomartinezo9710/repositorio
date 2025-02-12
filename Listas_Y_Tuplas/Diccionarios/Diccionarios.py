@@ -60,6 +60,30 @@ for valor in mi_diccionario.values():
     print(valor)
 
 
-#Iterar sobre claves y valores:
+#Iterar sobre claves y valores:      (Imprimir todas las claves y valores )
 for clave, valor in mi_diccionario.items():
     print(f"{clave}: {valor}")
+
+
+print(mi_diccionario.items())
+
+#Diccionarios dentro de otros diccionarios:
+
+Diccionario = {
+
+    "diccionario1" : {"Nombre":"Juan", "Edad":25},
+    "diccionario2" : {"Nombre":"Ana","Edad":30}
+ 
+}
+
+print(Diccionario["diccionario1"]["Edad"])
+
+
+
+mi_diccionario = {
+    "persona1": {"nombre": "Juan", "edad": 25},
+    "persona2": {"nombre": "Ana", "edad": 30}
+}
+
+print(mi_diccionario["persona1"]["nombre"])  # Resultado: Juan
+print(mi_diccionario["persona2"]["edad"])  # Resultado: 30
