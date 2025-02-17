@@ -14,4 +14,5 @@ humano_1 = unHumano(1.80,23,87)
 humano_1.comer()
 
 
+
 print(f'El humano 1 mide "{humano_1.altura}, pesa {humano_1.peso123} kg, y tiene {humano_1.edad} años')

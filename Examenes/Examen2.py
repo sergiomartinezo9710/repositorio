@@ -12,3 +12,4 @@ def milisegundos (dia = 0, hora = 0, minuto = 0, segundos = 0 ):
     
 
 milisegundos(2,33,23,12)
+>>>>>>> fba10b9b1fded8f84d8f537e6d4f9400c7c2552c

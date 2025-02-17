@@ -1,3 +1,4 @@
+
 #FIZZBUZZ #3 Escribe una función que muestre por consola los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
 #- Múltiplos de 3 por la palabra "fizz".
 #- Múltiplos de 5 por la palabra "buzz".

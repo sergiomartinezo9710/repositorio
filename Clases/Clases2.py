@@ -16,3 +16,4 @@ estudiante1 = estudiante (3.8, "Almuerzos y refrigerios", 4.2, 5)               
 estudiante1.datos_estudiante()
 
 print(f"El estudiante tiene su promedio semestral de {estudiante1.promedio_semestral}, posee los beneficios de:{estudiante1.beneficios}, y tiene un promedio ponderado de {estudiante1.promedio_ponderado}")
+>>>>>>> fba10b9b1fded8f84d8f537e6d4f9400c7c2552c
