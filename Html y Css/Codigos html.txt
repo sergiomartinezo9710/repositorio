@@ -1,0 +1,116 @@
+ <html>    -> Codigo inicial 
+ 
+ 
+ <head> Cabeza de la estructura (cerrarlo antes de entrar al cuerpo de la estructura)
+ <body> Cuerpo de la estructura
+ <br /> Salto de linea 
+ <h> titulo
+
+ETIQUETAS 
+ 
+ <p> Parrafos 
+ <strong> <b> </br> Negritas 
+ <span> ??
+ <i> Italica 
+ <blockquote> Citas (se corre hacia la derecha o espaciado)
+ <cite> Agregar el autor 
+ <hr /> Linea horizontal 
+ 
+ 
+ 
+ ENLACES 
+ 
+ <a href="**la direccion**">Ir a tal parte</a>      ***ruta externa***
+ <a target="_blank" href "**la direccion**" >Ir a tal parte    ***ruta externa con link***
+ <a href="imagenes/logo.jpg"> Ir a la imagen </a> ***ruta interna**
+ <link rel="stylesheet" href="documento.ccs"> ABRIR UN CODIGO DENTRO DE UN HTML 
+ <link rel="shortcut icon" type="image/x-icon" href="imagenes.
+ <script src="archivo.js"></script>
+ <a href="mailto:lol_es@riotgames.com" tittle="Enviar correo a soporte" 
+ 
+ 
+ 
+ LISTAS 
+ 
+ LISTAS DESORDENADAS
+ <ul>
+	<li><a href="#"> Item #1</a></li>
+	<li> Item 2</li>
+	<li> Item 3</li>
+	<li> Item n...</li>
+	
+  </ul>
+  
+ LISTAS ORDENADAS 
+ 
+ <ol>
+	<li><a href="#"> Item #1</a></li>
+	<li> Item 2</li>
+	<li> Item 3</li>
+	<li> Item n...</li>
+	
+  </ol>
+ 
+ 
+ 
+ IMAGENES  
+ 
+ IMAGENES INTERNAS 
+ 
+ <img src="**direccion de la imagen**.jpg" width="**tamaño ancho en numeros***" height="***Tamaño largo en numeros***"/>
+ 
+ TABLAS
+ 
+ IMAGENES EXTERNAS 
+ <img src="***Link*** tittle="logotipo hecho por sergio martinez" width="***tamaño ancho en numeros*** height="***"Tamaño largo en numeros***"/>
+ 
+ 
+ TABLAS 
+ 
+ 
+ 
+		<table>
+		<tr>
+			<td>///////////</td>
+			<td>Columna #1</td>
+			<td>Columna #2</td>
+			<td>Columna #3</td>	
+	
+		</tr>
+			<tr>
+			<td>Fila #1</td>
+			<td>*****</td>
+			<td>*****</td>
+			<td>*****</td>
+	
+		</tr>
+			<tr>
+			<td>Fila #2</td>
+			<td>*****</td>
+			<td>*****</td>
+			<td>*****</td>
+	
+		</tr>
+		<tr>
+			<td>Fila #3</td>
+			<td>*****</td>
+			<td>*****</td>
+			<td>*****</td>
+	
+		</tr>
+		
+		</table>
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
