@@ -1,0 +1,45 @@
+body {
+	background:url(fondo.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center 50%;
+	}
+	 
+
+.titulo1{
+	text-align: center;
+	color:black;
+	font-size:40px; 
+	width:;
+	height:;
+	background:#BD1B1B;	
+	top:;
+	bottom:;
+	right:;
+	left:;
+	 
+	 }	
+
+.titulo2{
+	text-align:center;
+	color:red;
+	font-size:30px;
+	position:relative;
+	background:;
+	top:10px;
+	bottom:;
+	right:;
+	left:10px;
+	
+}	 
+	 
+.titulo3{
+	color:red;
+	font-size:60px;
+		 
+		 
+		 
+		 
+	 }
+
+
