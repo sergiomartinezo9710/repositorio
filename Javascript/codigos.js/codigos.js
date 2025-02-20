@@ -22,12 +22,3 @@ while(condicion){
     //haz aquello
 
 }
-
-for{
-    c
-
-}
-
-
-
-
